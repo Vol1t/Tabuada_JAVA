@@ -42,7 +42,6 @@ public class TabuadaEx  {
         }
         ;
         cont = contCom;
-
         while (tabuadaCom <= tabuadaMid) {
         	System.out.println("\n Tabuada do"+"["+tabuadaCom+"]"+"\n");
             while (contCom <= contFim) {
@@ -53,7 +52,6 @@ public class TabuadaEx  {
             contCom = cont;
             tabuadaCom++; 
             }
-        
         
     };
 }
